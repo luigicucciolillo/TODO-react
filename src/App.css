@@ -1,0 +1,9 @@
+.App {
+  max-width: 600px; /* Set the maximum width of the app */
+  margin: 0 auto; /* Center the app horizontally */
+  padding: 20px; /* Add some padding */
+  background-color: #f9f9f9; /* Optional: Light background */
+  border: 1px solid #ccc; /* Optional: Border for better visibility */
+  border-radius: 8px; /* Optional: Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Subtle shadow */
+}
